@@ -4,7 +4,7 @@
 ...  hash(0.0)   == 0   and
 ...  hash(False) == 0   and
 ...  hash("")    == 0)
-False
+True
 
 >>> (hash(1)    == 1   and
 ...  hash(1.0)  == 1   and
